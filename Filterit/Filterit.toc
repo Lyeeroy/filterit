@@ -1,0 +1,10 @@
+﻿# https://github.com/Lyeeroy/Filterit
+## Interface: 30300
+## Title: Filterit
+## Author: LyeeRoy
+## Notes: Chat filter
+## Version: 0.1
+
+embeds.xml
+
+main.lua
